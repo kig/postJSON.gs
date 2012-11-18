@@ -1,0 +1,13 @@
+postJSON.gs
+-----------
+
+Apps Script for Google Spreadsheets that sends a range of data to a remote service as JSON.
+Comes with a hook to send edited spreadsheet rows to a remote service.
+
+Handy for doing a quick admin UI to tabulated data.
+Doesn't have anything for loading data from a remote server into the spreadsheet, 
+so not so handy for maintaining consistency between a remote DB and a spreadsheet.
+
+LICENSE
+-------
+Apache License 2.0
